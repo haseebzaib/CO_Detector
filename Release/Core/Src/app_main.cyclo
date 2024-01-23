@@ -1,0 +1,6 @@
+../Core/Src/app_main.c:252:13:prev_ppm_	3
+../Core/Src/app_main.c:154:13:rtc_set_alarm	11
+../Core/Src/app_main.c:50:6:app_main	15
+../Core/Src/app_main.c:351:6:HAL_UART_RxCpltCallback	1
+../Core/Src/app_main.c:357:6:HAL_RTC_AlarmAEventCallback	1
+../Core/Src/app_main.c:364:6:HAL_RTC_AlarmBEventCallback	1

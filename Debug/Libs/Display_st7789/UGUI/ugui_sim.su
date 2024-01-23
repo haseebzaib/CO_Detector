@@ -1,0 +1,4 @@
+../Libs/Display_st7789/UGUI/ugui_sim.c:172:6:windowHandler	8	static
+../Libs/Display_st7789/UGUI/ugui_sim.c:41:11:GUI_SimCfg	8	static
+../Libs/Display_st7789/UGUI/ugui_sim.c:60:6:GUI_Setup	40	static
+../Libs/Display_st7789/UGUI/ugui_sim.c:167:6:GUI_Process	8	static

@@ -1,0 +1,6 @@
+../Core/Src/app_main.c:252:13:prev_ppm_	8	static
+../Core/Src/app_main.c:154:13:rtc_set_alarm	88	static
+../Core/Src/app_main.c:50:6:app_main	72	static
+../Core/Src/app_main.c:351:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/app_main.c:357:6:HAL_RTC_AlarmAEventCallback	8	static
+../Core/Src/app_main.c:364:6:HAL_RTC_AlarmBEventCallback	0	static

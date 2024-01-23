@@ -1,0 +1,4 @@
+../Libs/Display_st7789/UGUI/ugui_sim.c:172:6:windowHandler	13
+../Libs/Display_st7789/UGUI/ugui_sim.c:41:11:GUI_SimCfg	1
+../Libs/Display_st7789/UGUI/ugui_sim.c:60:6:GUI_Setup	1
+../Libs/Display_st7789/UGUI/ugui_sim.c:167:6:GUI_Process	1

@@ -1,0 +1,3 @@
+../Libs/USB_driver.c:41:9:usb_cabledetect_statedetect	4
+../Libs/USB_driver.c:71:6:usb_currentselector	1
+../Libs/USB_driver.c:90:6:usb_deviceID	2

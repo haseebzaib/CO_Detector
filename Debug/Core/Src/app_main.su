@@ -1,0 +1,4 @@
+../Core/Src/app_main.c:50:6:app_main	168	static
+../Core/Src/app_main.c:392:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/app_main.c:398:6:HAL_RTC_AlarmAEventCallback	8	static
+../Core/Src/app_main.c:405:6:HAL_RTC_AlarmBEventCallback	0	static

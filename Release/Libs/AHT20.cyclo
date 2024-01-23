@@ -1,0 +1,5 @@
+../Libs/AHT20.c:37:6:AHT20_Init	1
+../Libs/AHT20.c:41:6:AHT20_SoftReset	1
+../Libs/AHT20.c:47:6:AHT20_Measure	2
+../Libs/AHT20.c:77:10:AHT20_Temp	1
+../Libs/AHT20.c:84:10:AHT20_Humid	1

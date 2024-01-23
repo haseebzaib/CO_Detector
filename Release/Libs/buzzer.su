@@ -1,0 +1,7 @@
+../Libs/buzzer.c:24:6:BUZZER_Init	8	static
+../Libs/buzzer.c:37:6:BUZZER_PWM_SetPercent	8	static
+../Libs/buzzer.c:60:6:BUZZER_On	8	static
+../Libs/buzzer.c:86:6:BUZZER_Off	8	static
+../Libs/buzzer.c:110:6:BuzzerToggle	16	static
+../Libs/buzzer.c:146:6:BUZZER_Go	16	static
+../Libs/buzzer.c:162:6:BUZZER_Handler	16	static
